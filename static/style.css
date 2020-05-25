@@ -1,9 +1,9 @@
 #title {
-    text-align: center;
-    border-style: solid;
-    border-radius: 5px;
-    border-color: black;
-    border-bottom: 2px;
+  text-align: center;
+  border-style: solid;
+  border-radius: 5px;
+  border-color: black;
+  border-bottom: 2px;
 }
 
 .content {
@@ -12,5 +12,20 @@
   margin: 0 auto -50px;
 }
 .footer{
-  height: 50px;
+  font-family: Questrial;
+  font-size: 20px;
+  text-align: center;
+  height: 30px;
+  position:absolute;
+	bottom:0;
+	width:100%;	
+}
+.navbar-brand{
+  font-family: Questrial;
+  font-size: 35px;
+}
+.title{
+  font-family: Questrial;
+  text-align: center;
+  margin-top: 15px;
 }
