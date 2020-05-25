@@ -5,3 +5,12 @@
     border-color: black;
     border-bottom: 2px;
 }
+
+.content {
+  padding: 20px;
+  min-height: 100%;
+  margin: 0 auto -50px;
+}
+.footer{
+  height: 50px;
+}
